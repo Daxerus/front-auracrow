@@ -4,7 +4,7 @@
       <div class="column" v-for="(column, index) in columns" :key="index">
         <div v-for="entry in column" :key="entry.id" class="gallery-item">
           <img
-            :src="entry.thumbnail_path"
+            :src="imageSource(entry)"
             :alt="entry.name"
             class="thumbnail"
             @click="handleClick(entry)"
@@ -30,11 +30,17 @@ export default {
       entries: [],
       loading: true,
       selectedEntry: null,
-      columns: [[], []]
+      columns: [[], []],
+      isLandscape: false
     }
   },
   async created() {
     await this.loadEntries()
+    this.checkOrientation()
+    window.addEventListener('resize', this.checkOrientation)
+  },
+  beforeDestroy() {
+    window.removeEventListener('resize', this.checkOrientation) 
   },
   watch: {
     '$route.params.section': 'loadEntries'
@@ -59,10 +65,21 @@ export default {
     },
     closeModal() {
       this.selectedEntry = null
+    },
+    checkOrientation() {
+      this.isLandscape = window.innerWidth > window.innerHeight
+    },
+    imageSource(entry) {
+      return this.isLandscape ? entry.path : entry.thumbnail_path
     }
   }
 }
 </script>
+
+<style scoped>
+/* Tu CSS existente */
+</style>
+
 
 <style scoped>
 .gallery-container {

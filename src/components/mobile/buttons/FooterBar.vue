@@ -44,7 +44,7 @@ export default {
       router.push({ name: section })
     }
     const downloadCv = () => {
-      const filePath = "/src/assets/docs/CV_VeronicaVal.pdf"
+      const filePath = "@/assets/docs/CV_VeronicaVal.pdf"
       const link = document.createElement('a')
       link.href = filePath
       link.download = 'CV_VeronicaVal.pdf'

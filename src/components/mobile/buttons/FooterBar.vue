@@ -45,7 +45,7 @@ export default {
     }
     const downloadCv = () => {
       const link = document.createElement('a')
-      link.href = 'src/assets/docs/CV_VeronicaVal.pdf'
+      link.href = "/src/assets/docs/CV_VeronicaVal.pdf"
       link.download = 'CV_VeronicaVal.pdf'
       document.body.appendChild(link)
       link.click()

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 478 227">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        font-family: Anton-Regular, Anton;
+        font-size: 40px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="concept">
+    <polygon class="cls-2" points="0 85 368 0 372 32 478 31 336 120 321 92 1 227 0 85"/>
+    <text class="cls-1" transform="translate(17.42 143.56) rotate(-14.5)"><tspan x="0" y="0">CONCEPT Y STORY BOARD</tspan><tspan x="0" y="48">ART</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332.22 347.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #a0f860;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2-2" data-name="Capa 2">
+    <polygon id="verde" class="cls-2" points="313.12 2.1 21.12 17.1 2.12 342.1 330.12 345.1 313.12 2.1"/>
+    <polygon id="negro" class="cls-1" points="33.62 36.6 23.62 323.6 304.62 321.6 300.62 19.6 33.62 36.6"/>
+  </g>
+</svg>

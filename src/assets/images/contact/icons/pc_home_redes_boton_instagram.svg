@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.01 47.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="instagram">
+    <path class="cls-1" d="M35.41,45.74l-29.98-6.92c-2.58-.6-4.27-3.08-3.87-5.69L5.68,5.81c.44-2.94,3.3-4.86,6.19-4.17l34.75,8.32c2.91.7,4.58,3.75,3.61,6.57l-8.9,25.91c-.84,2.45-3.4,3.88-5.93,3.29Z"/>
+    <ellipse class="cls-1" cx="23.86" cy="27.27" rx="8.5" ry="10" transform="translate(-8.9 42.74) rotate(-74.09)"/>
+    <circle class="cls-2" cx="39.86" cy="16.77" r="3"/>
+  </g>
+</svg>

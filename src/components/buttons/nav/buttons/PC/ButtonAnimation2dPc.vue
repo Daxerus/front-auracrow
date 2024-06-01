@@ -1,0 +1,23 @@
+<template>
+  <svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 508 142">
+    <g id="anim2d">
+      <polygon class="cls-1" points="0 53 160 108 168.98 80.5 508 142 480.47 6 104 0 107 33 0 53" />
+      <text class="cls-2" transform="translate(127.57 46.43) rotate(3)">
+        <tspan x="0" y="0">ANIMACION 2D Y MOTION</tspan>
+        <tspan x="209.83" y="45.6">GRAPHICS</tspan>
+      </text>
+    </g>
+  </svg>
+</template>
+<style scoped>
+.cls-1 {
+  fill: #000;
+  stroke-width: 0px;
+}
+
+.cls-2 {
+  fill: #fff;
+  font-family: Anton-Regular, Anton;
+  font-size: 38px;
+}
+</style>

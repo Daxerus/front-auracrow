@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.51 54.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b340ff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #000;
+      }
+
+      .cls-3 {
+        fill: #a0f860;
+      }
+    </style>
+  </defs>
+  <g id="mas">
+    <polygon id="negro" class="cls-2" points="0 54.51 54.51 50.81 54.51 0 0 6.89 0 54.51"/>
+    <polygon id="verde" class="cls-1" points="44.83 23.34 34.83 23.34 34.83 13.34 22.83 13.34 22.83 23.34 12.83 23.34 12.83 35.34 22.83 35.34 22.83 45.34 34.83 45.34 34.83 35.34 44.83 35.34 44.83 23.34"/>
+    <polygon id="morado" class="cls-3" points="41.66 22.47 31.66 22.47 31.66 12.47 19.66 12.47 19.66 22.47 9.66 22.47 9.66 34.47 19.66 34.47 19.66 44.47 31.66 44.47 31.66 34.47 41.66 34.47 41.66 22.47"/>
+  </g>
+</svg>

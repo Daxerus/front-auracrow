@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.66 60.83">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2-2" data-name="Capa 2">
+    <g id="Capa_19" data-name="Capa 19">
+      <polyline class="cls-3" points="15.71 36.42 17.55 19.21 1.62 21.69 3.21 40.02"/>
+      <polyline class="cls-1" points="3.21 40.02 4.8 58.23 13.31 58.91 15.71 36.42"/>
+      <path class="cls-1" d="M35.58,30.76c-.78,1.08-1.53,2.3-2.23,3.71l.22-3.14"/>
+      <path class="cls-3" d="M51.94,26.07c-4.89-2.67-12.22-.93-17.21,5.91"/>
+      <path class="cls-1" d="M23.99,34.07l-1.47,24.28h14.56s-.97-14.29,5.35-14.02,2.21,14.97,2.21,14.97l11.4-.14s5.9-19.37,1.5-27.47c-1.28-2.37-3.25-4.35-5.6-5.63"/>
+      <polyline class="cls-3" points="33.58 31.31 34.17 22.78 24.69 22.37 23.99 34.07"/>
+      <ellipse class="cls-2" cx="10.4" cy="8.78" rx="8" ry="7" transform="translate(-3.03 6.57) rotate(-30.82)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.87 40.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_3" data-name="Capa 3">
+    <path class="cls-1" d="M39.51,39.12l-30.77.05c-2.65,0-4.85-2.03-5.06-4.67L1.52,6.97c-.23-2.96,2.12-5.49,5.09-5.47l35.73.23c2.99.02,5.31,2.61,5.01,5.59l-2.8,27.25c-.26,2.58-2.44,4.55-5.03,4.55Z"/>
+    <ellipse class="cls-1" cx="24.08" cy="23.74" rx="8.5" ry="10" transform="translate(-.82 46.63) rotate(-87.19)"/>
+    <circle class="cls-2" cx="37.28" cy="9.89" r="3"/>
+  </g>
+</svg>

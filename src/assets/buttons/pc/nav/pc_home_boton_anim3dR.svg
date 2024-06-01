@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 477.81 116.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Anton-Regular, Anton;
+        font-size: 48px;
+      }
+    </style>
+  </defs>
+  <g id="anim_3D" data-name="anim 3D">
+    <polygon class="cls-1" points="17.41 0 0 90.48 324.86 91.47 328.54 116.2 477.81 80.08 377.15 63.29 386.18 12.04 17.41 0"/>
+    <text class="cls-2" transform="translate(58.9 65.17) rotate(1.28)"><tspan x="0" y="0">ANIMACION 3D</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<template>
+  <svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 456 232">
+    <g id="Capa_3" data-name="Capa 3">
+      <g>
+        <polygon
+          id="forma"
+          class="cls-2"
+          points="456 168.22 420.79 205.23 104.76 32.72 404.06 155.66 456 123.68 456 77.77 198.76 0 0 0 455.66 232 456 232 456 168.22"
+        />
+        <text class="cls-3" transform="translate(206.93 64.25) rotate(22.34) scale(1.43 1)">
+          <tspan x="0" y="0">INICIO</tspan>
+        </text>
+        <polygon
+          class="cls-2"
+          points="104.76 32.72 420.79 205.23 456 168.22 456 123.68 404 155 104.76 32.72"
+        />
+      </g>
+      <g>
+        <polygon
+          id="forma-2"
+          data-name="forma"
+          class="cls-1"
+          points="456 168.22 420.79 205.23 104.76 32.72 404.06 155.66 456 123.68 456 77.77 198.76 0 0 0 455.66 232 456 232 456 168.22"
+        />
+        <text class="cls-3" transform="translate(206.93 64.25) rotate(22.34) scale(1.43 1)">
+          <tspan x="0" y="0">INICIO</tspan>
+        </text>
+        <polygon
+          class="cls-2"
+          points="104.76 32.72 420.79 205.23 456 168.22 456 123.68 404 155 104.76 32.72"
+        />
+      </g>
+    </g>
+  </svg>
+</template>
+
+<script></script>
+
+<style scoped>
+.cls-1 {
+  fill: #000;
+}
+
+.cls-1,
+.cls-2 {
+  stroke-width: 0px;
+}
+
+.cls-3 {
+  font-family: Anton-Regular, Anton;
+  font-size: 60px;
+}
+
+.cls-3,
+.cls-2 {
+  fill: #fff;
+}
+</style>

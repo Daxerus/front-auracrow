@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 479 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        font-family: Anton-Regular, Anton;
+        font-size: 43px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="ilustracion">
+    <polygon class="cls-2" points="0 96 100 74 91 25 457 0 479 92 157 102 156 130 0 96"/>
+    <text class="cls-1" transform="translate(115.88 85.96) rotate(-3.5)"><tspan x="0" y="0">ILUSTRACION Y COMIC</tspan></text>
+  </g>
+</svg>

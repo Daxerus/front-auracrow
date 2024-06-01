@@ -1,0 +1,14 @@
+@import './base.css';
+@font-face {
+  font-family: 'Anton', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+}
+@font-face {
+  font-family: 'Architects Daughter';
+  font-weight: 400;
+  font-style: normal;
+  src: url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+}
+.text-center {
+  color: #a0f860;
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103.15 144.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #7c17ea;
+      }
+    </style>
+  </defs>
+  <g id="negro">
+    <polygon class="cls-1" points="75.74 144.26 103.15 22.3 36.6 0 9.53 144.26 75.74 144.26"/>
+  </g>
+  <g id="morado">
+    <polygon class="cls-2" points="67.74 144.26 94.81 27.74 27.57 5.79 0 144.26 67.74 144.26"/>
+  </g>
+</svg>

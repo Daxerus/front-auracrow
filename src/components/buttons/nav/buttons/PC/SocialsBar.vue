@@ -1,0 +1,25 @@
+<template>
+  <svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 812 234">
+    <g id="negro">
+      <polygon class="cls-1" points="0 0 524.06 234 812 234 812 214.23 726 131 227.64 0 0 0" />
+    </g>
+    <g id="blanco">
+      <polygon class="cls-2" points="123 33 483 206 542 152 788 216 539 115 480 146 123 33" />
+    </g>
+  </svg>
+</template>
+<script></script>
+<style scoped>
+.cls-1 {
+  fill: #000;
+}
+
+.cls-1,
+.cls-2 {
+  stroke-width: 0px;
+}
+
+.cls-2 {
+  fill: #fff;
+}
+</style>

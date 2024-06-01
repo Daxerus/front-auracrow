@@ -1,0 +1,43 @@
+<template>
+  <svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323 204.64">
+    <g id="negro">
+      <polygon
+        class="cls-1"
+        points="323 74.64 295 204.64 0 141.96 0 115.06 310.89 72.19 323 74.64"
+      />
+    </g>
+    <g id="morado">
+      <polygon class="cls-2" points="0 0 314 57.64 286 188.64 0 125.96 0 0" />
+      <text class="cls-3" transform="translate(113.2 111.75) rotate(10)">
+        <tspan x="0" y="0">CV</tspan>
+      </text>
+    </g>
+  </svg>
+</template>
+<script></script>
+<style scoped>
+.cls-1 {
+  fill: #000;
+}
+
+.cls-1,
+.cls-2 {
+  stroke-width: 0px;
+}
+
+.cls-2 {
+  fill: #7c17ea;
+}
+svg:hover .cls-2 {
+  fill: white;
+}
+
+.cls-3 {
+  fill: #fff;
+  font-family: Anton-Regular, Anton;
+  font-size: 62px;
+}
+svg:hover .cls-3 {
+  fill: #7c17ea;
+}
+</style>

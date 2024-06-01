@@ -1,0 +1,31 @@
+<template>
+  <svg
+    id="Capa_2"
+    data-name="Capa 2"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 551.37 154.43"
+  >
+    <g id="pjs">
+      <polygon
+        class="cls-1"
+        points="189.44 132.22 189.57 154.43 0 138.75 118.96 92.77 108.1 44.61 505.22 0 551.37 133.1 189.44 132.22"
+      />
+      <text class="cls-2" transform="translate(138.32 110.46) rotate(-3.56)">
+        <tspan x="0" y="0">DISEÑO DE PERSONAJES</tspan>
+      </text>
+    </g>
+  </svg>
+</template>
+
+<style scoped>
+.cls-1 {
+  fill: #000;
+  stroke-width: 0px;
+}
+
+.cls-2 {
+  fill: #fff;
+  font-family: Anton-Regular, Anton;
+  font-size: 44px;
+}
+</style>

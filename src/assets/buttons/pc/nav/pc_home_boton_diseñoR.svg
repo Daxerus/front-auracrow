@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 443.97 136.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Anton-Regular, Anton;
+        font-size: 40px;
+      }
+    </style>
+  </defs>
+  <g id="disñeo">
+    <polygon class="cls-1" points="314.01 103.68 300.43 136.08 443.97 114.16 352.35 86.5 367.14 36.68 31.91 0 0 104.07 314.01 103.68"/>
+    <text class="cls-2" transform="translate(32.7 72.24) rotate(2.64)"><tspan x="0" y="0">DISEÑO GRAFICO Y UI</tspan></text>
+  </g>
+</svg>

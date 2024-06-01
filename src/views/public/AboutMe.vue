@@ -1,7 +1,7 @@
 <template>
   <div class="main-container">
     <div class="header">
-      <LanguageSwitch />
+      <!--       <LanguageSwitch /> -->
       <NavOpener />
       <span class="nav-border"></span>
     </div>

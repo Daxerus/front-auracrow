@@ -10,7 +10,8 @@ async function validateToken(token) {
       headers: {
         'Content-Type': 'application/json',
         Authorization: token,
-        'ngrok-skip-browser-warning': true
+        'ngrok-skip-browser-warning': true,
+        'bypass-tunnel-reminder': true
       }
     })
     return true

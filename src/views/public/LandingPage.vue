@@ -93,7 +93,7 @@ export default {
 }
 @media only screen and (orientation: landscape) {
   .home {
-    background-image: url('src/assets/backgrounds/pc/pc_home_fondo.jpg');
+    background-image: url(/src/assets/backgrounds/pc/pc_home_fondo.jpg);
     width: 100vw;
   }
   .background-character {

@@ -62,11 +62,11 @@ export default {
   methods: {
     updateImageSrc() {
       if (window.innerWidth > window.innerHeight) {
-        this.topLImageSrc = '/src/assets/images/about/pc/pc_experiencia_fondo_topL.png'
-        this.botRImageSrc = '/src/assets/images/about/pc/pc_experiencia_fondo_botR.png'
+        this.topLImageSrc = 'src/assets/images/about/pc/pc_experiencia_fondo_topL.png'
+        this.botRImageSrc = 'src/assets/images/about/pc/pc_experiencia_fondo_botR.png'
       } else {
-        this.topLImageSrc = '/src/assets/images/about/movil_sobremi_fondo_blanco_topL.png'
-        this.botRImageSrc = '/src/assets/images/about/movil_sobremi_fondo_blanco_botR.png'
+        this.topLImageSrc = 'src/assets/images/about/movil_sobremi_fondo_blanco_topL.png'
+        this.botRImageSrc = 'src/assets/images/about/movil_sobremi_fondo_blanco_botR.png'
       }
     }
   }
